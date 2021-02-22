@@ -1,0 +1,6 @@
+﻿  ayy9672_hw2_q2.cpp
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 2\ayy9672_hw2_q2\ayy9672_hw2_q2\ayy9672_hw2_q2.cpp(15,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 2\ayy9672_hw2_q2\ayy9672_hw2_q2\ayy9672_hw2_q2.cpp(18,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 2\ayy9672_hw2_q2\ayy9672_hw2_q2\ayy9672_hw2_q2.cpp(21,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 2\ayy9672_hw2_q2\ayy9672_hw2_q2\ayy9672_hw2_q2.cpp(24,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ayy9672_hw2_q2.vcxproj -> C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 2\ayy9672_hw2_q2\Debug\ayy9672_hw2_q2.exe
