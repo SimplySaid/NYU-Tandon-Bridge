@@ -1,0 +1,8 @@
+﻿  ayy9672_hw13.cpp
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 13 Revised\ayy9672_hw13\ayy9672_hw13\ayy9672_hw13.cpp(222,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  4 of 257 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ayy9672_hw13.vcxproj -> C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 13 Revised\ayy9672_hw13\Release\ayy9672_hw13.exe

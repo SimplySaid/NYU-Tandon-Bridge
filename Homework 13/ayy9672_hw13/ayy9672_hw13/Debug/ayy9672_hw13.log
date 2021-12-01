@@ -1,0 +1,9 @@
+﻿  ayy9672_hw13.cpp
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 13\ayy9672_hw13\ayy9672_hw13\ayy9672_hw13.cpp(110,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 13\ayy9672_hw13\ayy9672_hw13\ayy9672_hw13.cpp(111,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 13\ayy9672_hw13\ayy9672_hw13\ayy9672_hw13.cpp(148,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 13\ayy9672_hw13\ayy9672_hw13\ayy9672_hw13.cpp(149,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 13\ayy9672_hw13\ayy9672_hw13\ayy9672_hw13.cpp(172,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 13\ayy9672_hw13\ayy9672_hw13\ayy9672_hw13.cpp(173,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 13\ayy9672_hw13\ayy9672_hw13\ayy9672_hw13.cpp(209,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ayy9672_hw13.vcxproj -> C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 13\ayy9672_hw13\Debug\ayy9672_hw13.exe

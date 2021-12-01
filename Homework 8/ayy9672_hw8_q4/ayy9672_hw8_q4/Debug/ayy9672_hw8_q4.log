@@ -1,0 +1,4 @@
+﻿  ayy9672_hw8_q4.cpp
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 8\ayy9672_hw8_q4\ayy9672_hw8_q4\ayy9672_hw8_q4.cpp(39,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 8\ayy9672_hw8_q4\ayy9672_hw8_q4\ayy9672_hw8_q4.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+  ayy9672_hw8_q4.vcxproj -> C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 8\ayy9672_hw8_q4\Debug\ayy9672_hw8_q4.exe

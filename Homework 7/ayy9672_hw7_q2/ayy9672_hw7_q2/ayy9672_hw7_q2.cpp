@@ -17,14 +17,15 @@ int main() {
 	}
 	std::cout << "\n";
 
-	std::cout << "Amicable Numbers: ";
+	std::cout << "Amicable Numbers:\n";
 	for (int i = 2; i <= n; ++i) {
 		int c1, s1, c2, s2;
 		analyzeDividors(i, c1, s1);
-		analyzeDividors(s1, c2, s2);
-
-		if (s2 == i && i != s1)
-			std::cout << i << " ";
+		if (i > s1) {
+			analyzeDividors(s1, c2, s2);
+			if (s1 <= n && s2 == i && i != s1)
+				std::cout << i << " " << s1 << "\n";
+		}
 	}
 	return 0;
 }

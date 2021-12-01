@@ -1,0 +1,3 @@
+﻿  testCode.cpp
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 13 Revised\testCode\testCode\testCode.cpp(115,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  testCode.vcxproj -> C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 13 Revised\testCode\Debug\testCode.exe

@@ -1,0 +1,5 @@
+﻿  sorting.cpp
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Sorting\sorting\sorting\sorting.cpp(236,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Sorting\sorting\sorting\sorting.cpp(238,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Sorting\sorting\sorting\sorting.cpp(273,20): warning C4018: '<': signed/unsigned mismatch
+  sorting.vcxproj -> C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Sorting\sorting\Debug\sorting.exe

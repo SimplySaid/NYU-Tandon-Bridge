@@ -14,7 +14,6 @@ int main() {
 	std::cin >> inputStartDate;
 
 	printYearCalendar(inputYear, inputStartDate);
-	std::cout << checkLeapYear(2015);
 	return 0;
 }
 

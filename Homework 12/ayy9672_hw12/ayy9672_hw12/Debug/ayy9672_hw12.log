@@ -1,0 +1,8 @@
+﻿  ayy9672_hw12.cpp
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 12\ayy9672_hw12\ayy9672_hw12\ayy9672_hw12.cpp(107,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 12\ayy9672_hw12\ayy9672_hw12\ayy9672_hw12.cpp(165,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 12\ayy9672_hw12\ayy9672_hw12\ayy9672_hw12.cpp(173,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 12\ayy9672_hw12\ayy9672_hw12\ayy9672_hw12.cpp(225,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 12\ayy9672_hw12\ayy9672_hw12\ayy9672_hw12.cpp(249,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 12\ayy9672_hw12\ayy9672_hw12\ayy9672_hw12.cpp(256,20): warning C4018: '<': signed/unsigned mismatch
+  ayy9672_hw12.vcxproj -> C:\Users\alex\Documents\NYU Tandon Bridge\NYU-Tandon-Bridge\Homework 12\ayy9672_hw12\Debug\ayy9672_hw12.exe
